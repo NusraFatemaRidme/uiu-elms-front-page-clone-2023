@@ -1,0 +1,211 @@
+body{
+    margin:0;
+    padding:0;
+}
+
+#full_background{
+    background-color: rgb(222, 219, 219);
+    height: 1000px;
+}
+
+#headSection{
+    height: 100px;
+    width:100%;
+    background-color: ghostwhite;
+    display:flex;
+}
+
+#all_course{
+    margin: 55px 0px 0px 40px;
+    text-decoration: none;
+    color: #0F6FC5;
+}
+
+#course_search{
+    margin: 55px 0px 0px 15px;
+    text-decoration: none;
+    color: #0F6FC5;
+}
+
+#login{
+    margin: 55px 10px 5px 800px;
+    text-decoration: none;
+    color: #0F6FC5;
+    padding: 10px;
+    font-family: sans-serif;
+    font-weight: 100;
+    border: 1px solid #0F6FC5;;
+    border-radius: 20px;
+    text-align: center;
+}
+
+#second_section{
+    height: 150px;
+    max-width: 1400px;
+    background-color: ghostwhite;
+    margin: 25px 35px 0px 100px;
+}
+
+#heading_1{
+    padding: 30px;
+    font-family: sans-serif;
+    font-weight: 500;
+    color: rgb(41, 40, 40);
+}
+
+#home{
+    padding: 30px;
+    color: rgb(41, 40, 40);
+    font-family: sans-serif;
+    font-weight: 500;
+    text-decoration: none;
+}
+
+#course{
+    padding:30px;
+    color: rgb(41, 40, 40);
+    font-family: sans-serif;
+    font-weight: 500;
+    text-decoration: none;
+}
+
+#search_div{
+    display: flex;
+    padding: 30px 0px 0px 30px;
+    font-family: sans-serif;
+    font-weight: 500;
+    color: rgb(20, 20, 20);
+    height: 40px;
+}
+
+#search_course{
+    padding: 5px;
+    
+}
+
+.search_bar{
+    width: 330px;
+    border: 1px solid rgb(147, 145, 145);
+    padding: 6px 0px 5px 0px;
+    margin: 1px 0px 0px 4px;
+    height: 20px;
+    
+}
+
+input{
+    background: transparent;
+    border: 0px;
+    outline: 0px;
+    width: 300px;
+}
+
+#search_go{
+    width: 52px;
+    height: 25px;
+    background-color: rgb(186, 183, 183);
+    text-align: center;
+    padding-top: 8px;
+    margin-left: 5px;
+}
+
+#third_section{
+    height: 300px;
+    max-width: 1400px;
+    background-color: ghostwhite;
+    margin: 25px 35px 0px 100px;
+}
+
+#expand{
+    margin: 0px 8px 0px 1300px;
+    font-family: sans-serif;
+    font-weight: 50;
+    color: #0F6FC5;
+}
+
+#miscellanous{
+    padding: 0px 0px 0px 30px;
+    margin: 0px 0px 5px 0px;
+    text-decoration: none;
+    font-family: sans-serif;
+    font-weight: 50;
+    color: #0F6FC5;
+}
+
+#pgd{
+    
+    margin: 0px 0px 0px 30px;
+    text-decoration: none;    
+    font-weight: 500;
+    color: #0F6FC5;
+}
+
+#internship{
+    padding: 30px ;
+    text-decoration: none;
+    margin: 25px 5px 5px 0px;
+    font-weight: 500;
+    color: #0F6FC5;
+}
+
+#lastSection{
+    margin: 80px 35px 0px 100px;
+    color: #0F6FC5;
+    font-family: 2px sans-serif;
+    font-weight: 10;
+}
+
+#lastSection h1{
+    font-family: 2px sans-serif;
+    font-weight: 10;
+    color: #0F6FC5;
+}
+
+#lastSection h2{
+    font-family: 2px sans-serif;
+    font-weight: 10;
+    color: #0F6FC5;
+}
+
+#lastSection a{
+    text-decoration: none;
+}
+
+#data_retention{
+    font-family: 2px sans-serif;
+    font-weight: 20;
+    height: 30px;
+    width: 300px;
+    text-align: center;
+    font-weight: 200px;
+    margin: 0px 1px 0px 1000px;
+    background-color: rgb(174, 169, 169);
+    padding-top: 8px ;
+}
+
+#stay_in_touch{
+    margin: 0px;
+    margin: 5px;
+    color: #0F6FC5;
+}
+
+#uiu_cits{
+    display: flex;
+    margin: 5px 5px 10px 0px;
+}
+
+#cits{
+    margin: 0px;
+    color: #0F6FC5;
+    width: 200px;
+    
+}
+
+#login_site{
+    margin: 5px;
+    color: #0F6FC5;
+}
+
+#mail{
+    margin: 0px;
+    color: #0F6FC5;
+}
